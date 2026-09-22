@@ -14,7 +14,7 @@ Cada ejercicio está aislado en su propia carpeta para mantener el contexto limp
 
 * **`/profile`** - Conceptos básicos: Declaración de variables (`let`, `const`), tipado dinámico y Template Literals.
 * **`/calculadora-restaurante`** - Lógica de negocio y UI: Captura de datos (`prompt`), conversión de tipos (`parseFloat`), validaciones tempranas (`isNaN`) y encapsulamiento en funciones.
-* **`/calculadora-basica`** - Arquitectura modular: Separación de archivos matemáticos y de interfaz utilizando ES6 Modules.
+* **`/calculadora`** - Arquitectura modular: Separación de archivos matemáticos y de interfaz utilizando ES6 Modules.
 * **`/seguridadLogin`**  - Lógica de un sistema de login con captura de datos (`prompt`), evalua con un ciclo while.
 
 ## 🛠️ Tecnologías
