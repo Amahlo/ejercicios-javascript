@@ -16,6 +16,8 @@ Cada ejercicio está aislado en su propia carpeta para mantener el contexto limp
 * **`/calculadora-restaurante`** - Lógica de negocio y UI: Captura de datos (`prompt`), conversión de tipos (`parseFloat`), validaciones tempranas (`isNaN`) y encapsulamiento en funciones.
 * **`/calculadora`** - Arquitectura modular: Separación de archivos matemáticos y de interfaz utilizando ES6 Modules.
 * **`/seguridadLogin`**  - Lógica de un sistema de login con captura de datos (`prompt`), evalua con un ciclo while.
+* **`/calcularEdad`** - Calcula edad y evalua si es mayor de edad o no 
+* **`/carritoCompra`** - Calcula descuento, impuesto de variables fijas
 
 ## 🛠️ Tecnologías
 - HTML5
