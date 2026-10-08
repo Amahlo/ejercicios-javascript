@@ -18,6 +18,7 @@ Cada ejercicio está aislado en su propia carpeta para mantener el contexto limp
 * **`/seguridadLogin`**  - Lógica de un sistema de login con captura de datos (`prompt`), evalua con un ciclo while.
 * **`/calcularEdad`** - Calcula edad y evalua si es mayor de edad o no 
 * **`/carritoCompra`** - Calcula descuento, impuesto de variables fijas
+* **`/validarEdad`** - Validar edad usando arrow function
 
 ## 🛠️ Tecnologías
 - HTML5
