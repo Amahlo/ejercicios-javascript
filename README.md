@@ -20,6 +20,9 @@ Cada ejercicio está aislado en su propia carpeta para mantener el contexto limp
 * **`/carritoCompra`** - Calcula descuento, impuesto de variables fijas.
 * **`/validarEdad`** - Validar edad usando arrow function.
 * **`/filter`** - Filtra un Array usando el método .filter() que valida una condición.
+* **`/desestructuracion`** - Desestructuración de Array object.
+* **`/fila`** - Utilización de métodos de Arrays.
+* **`/inventarioBiblioteca`** - Utilización métodos de Arrays y desestructuración.
 
 ## 🛠️ Tecnologías
 - HTML5
