@@ -12,18 +12,19 @@ Durante el desarrollo de estos ejercicios se aplican los siguientes conceptos:
 
 Cada ejercicio está aislado en su propia carpeta para mantener el contexto limpio:
 
-* **`/profile`** - Conceptos básicos: Declaración de variables (`let`, `const`), tipado dinámico y Template Literals.
-* **`/calculadora-restaurante`** - Lógica de negocio y UI: Captura de datos (`prompt`), conversión de tipos (`parseFloat`), validaciones tempranas (`isNaN`) y encapsulamiento en funciones.
+* **`/array`** - Se agrega ejercicio array donde se aplica desestructuración.
 * **`/calculadora`** - Arquitectura modular: Separación de archivos matemáticos y de interfaz utilizando ES6 Modules.
-* **`/seguridadLogin`**  - Lógica de un sistema de login con captura de datos (`prompt`), evalua con un ciclo while.
+* **`/calculadora-restaurante`** - Lógica de negocio y UI: Captura de datos (`prompt`), conversión de tipos (`parseFloat`), validaciones tempranas (`isNaN`) y encapsulamiento en funciones.
 * **`/calcularEdad`** - Calcula edad y evalua si es mayor de edad o no.
 * **`/carritoCompra`** - Calcula descuento, impuesto de variables fijas.
-* **`/validarEdad`** - Validar edad usando arrow function.
-* **`/filter`** - Filtra un Array usando el método .filter() que valida una condición.
 * **`/desestructuracion`** - Desestructuración de Array object.
-* **`/fila`** - Utilización de métodos de Arrays.
-* **`/inventarioBiblioteca`** - Utilización métodos de Arrays y desestructuración.
 * **`/desestructuracionApi`** - Desestructuración de Arrays objests usando .filer(), además aplicar funcionalidad de estructura HTML con .map() y finalmente agregar un nuevo objeto utilizando inmutabilidad.
+* **`/fila`** - Utilización de métodos de Arrays.
+* **`/filter`** - Filtra un Array usando el método .filter() que valida una condición.
+* **`/inventarioBiblioteca`** - Utilización métodos de Arrays y desestructuración.
+* **`/profile`** - Conceptos básicos: Declaración de variables (`let`, `const`), tipado dinámico y Template Literals.
+* **`/seguridadLogin`**  - Lógica de un sistema de login con captura de datos (`prompt`), evalua con un ciclo while.
+* **`/validarEdad`** - Validar edad usando arrow function.
 
 ## 🛠️ Tecnologías
 - HTML5
