@@ -25,7 +25,7 @@ Cada ejercicio está aislado en su propia carpeta para mantener el contexto limp
 * **`/profile`** - Conceptos básicos: Declaración de variables (`let`, `const`), tipado dinámico y Template Literals.
 * **`/reporteClima`** - Desestructuración y nombramiento de claves
 * **`/seguridadLogin`**  - Lógica de un sistema de login con captura de datos (`prompt`), evalua con un ciclo while.
-* **`/todoList`** - Encadenamiento de métodos .filter() y .map() y renderizacion de estructura HTML <li></li> 
+* **`/todoList`** - Encadenamiento de métodos .filter() y .map() y renderizacion de estructura HTML `<li></li>`
 * **`/validarEdad`** - Validar edad usando arrow function.
 
 ## 🛠️ Tecnologías
