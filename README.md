@@ -22,8 +22,10 @@ Cada ejercicio está aislado en su propia carpeta para mantener el contexto limp
 * **`/fila`** - Utilización de métodos de Arrays.
 * **`/filter`** - Filtra un Array usando el método .filter() que valida una condición.
 * **`/inventarioBiblioteca`** - Utilización métodos de Arrays y desestructuración.
+* **`/reporteClima`** - Desestructuración y nombramiento de claves
 * **`/profile`** - Conceptos básicos: Declaración de variables (`let`, `const`), tipado dinámico y Template Literals.
 * **`/seguridadLogin`**  - Lógica de un sistema de login con captura de datos (`prompt`), evalua con un ciclo while.
+* **`/todoList`** - Encadenamiento de métodos .filter() y .map() y renderizacion de estructura HTML <li></li> 
 * **`/validarEdad`** - Validar edad usando arrow function.
 
 ## 🛠️ Tecnologías
