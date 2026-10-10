@@ -23,6 +23,7 @@ Cada ejercicio está aislado en su propia carpeta para mantener el contexto limp
 * **`/desestructuracion`** - Desestructuración de Array object.
 * **`/fila`** - Utilización de métodos de Arrays.
 * **`/inventarioBiblioteca`** - Utilización métodos de Arrays y desestructuración.
+* **`/desestructuracionApi`** - Desestructuración de Arrays objests usando .filer(), además aplicar funcionalidad de estructura HTML con .map() y finalmente agregar un nuevo objeto utilizando inmutabilidad.
 
 ## 🛠️ Tecnologías
 - HTML5
