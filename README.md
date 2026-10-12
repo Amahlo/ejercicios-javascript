@@ -19,6 +19,7 @@ Cada ejercicio está aislado en su propia carpeta para mantener el contexto limp
 * **`/carritoCompra`** - Calcula descuento, impuesto de variables fijas.
 * **`/desestructuracion`** - Desestructuración de Array object.
 * **`/desestructuracionApi`** - Desestructuración de Arrays objests usando .filer(), además aplicar funcionalidad de estructura HTML con .map() y finalmente agregar un nuevo objeto utilizando inmutabilidad.
+* **`/dom`** - Ejercicios básicos de DOM utiliznaod document.getElementById(). 
 * **`/fila`** - Utilización de métodos de Arrays.
 * **`/filter`** - Filtra un Array usando el método .filter() que valida una condición.
 * **`/inventarioBiblioteca`** - Utilización métodos de Arrays y desestructuración.
