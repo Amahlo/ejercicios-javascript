@@ -12,6 +12,7 @@ Durante el desarrollo de estos ejercicios se aplican los siguientes conceptos:
 
 Cada ejercicio está aislado en su propia carpeta para mantener el contexto limpio:
 
+* **`/API REST`** - Implementación de API REST y manipulacion del DOM
 * **`/array`** - Se agrega ejercicio array donde se aplica desestructuración.
 * **`/calculadora`** - Arquitectura modular: Separación de archivos matemáticos y de interfaz utilizando ES6 Modules.
 * **`/calculadora-restaurante`** - Lógica de negocio y UI: Captura de datos (`prompt`), conversión de tipos (`parseFloat`), validaciones tempranas (`isNaN`) y encapsulamiento en funciones.
